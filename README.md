@@ -15,7 +15,7 @@ Each video contains three folders and a profile:
 - "det" folder. This folder contains the detection results of video sequences.
 - "gt" folder. This folder contains the annotation results of video sequences.
 - "img1" folder. This folder contains the original images of  video sequence.
-- "seqinfo.ini" file. This file contains the configuration information of video sequence.
+- "seqinfo.ini" file. This file contains the configuration information of video sequences.
 
 # 4.LICENSE
 
